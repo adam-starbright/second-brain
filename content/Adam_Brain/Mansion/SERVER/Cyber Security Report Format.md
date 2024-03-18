@@ -1,0 +1,11 @@
+18-Mar-2024
+tags : #server #cyber-security #cyber-sec-tools 
+links :  
+
+1. **Key Findings**. The most important part of the report is what was actually discovered. Attention should be brought to the more severe/damaging vulnerabilities and these should be addressed first. After critical vulnerabilities are stated (if any were found) you can list less severe vulnerabilities or information disclosures that wouldn’t have that hard of an impact.
+2. **Proof of Concept**. Besides just listing the found vulnerabilities, it is also recommended to state how these vulnerabilities were found and to (if possible) provide a step by step guide on how anyone else could replicate/exploit these vulnerabilities or use them to their advantage.
+3. **Simplicity**. It matters who the report is being written for. If you are doing a cyber security report or a penetration test report for a big company with blue team then your report can be written in technical details, however if the report is being written for an individual who is not familiar with security concept, terms and definitions, then it is important to keep it simple and to explain it to them in a way that they would understand. Usually letting them know what the dangers of discovered vulnerabilities are and pointing them in the right direction on how they can harden their security would be enough.
+4. **Negative and Positive**. When writing the report it is a good idea to state both the negative and the positive findings. Prioritize the organizations weaknesses and state the findings related to security threats first but also mention their strengths.
+5. **Confidentiality**. Your report is going to have sensitive information therefor it is necessary to not have it leaked, stolen or sent to the wrong person. It is also necessary that you perform a secure transfer of the report when providing it to the client. Having a cyber security report in the wrong hands could pose a security threat to the organization. When confidentiality is of higher importance it is better to discuss the report contents in person compared to over email or phone.
+
+6. **Scope**. In your report, you want to state the scope of the organization on which the report is focused on. Specify which systems, networks and applications were reviewed in the cyber security report.
